@@ -156,4 +156,7 @@ footer{
         right: 55%;
         margin: 10px auto;
     }
+    footer{
+        width: 70%;
+    }
 }
